@@ -25,3 +25,9 @@ Implementation of remote photoplethysmography algorithm in OpenCV for measuring 
     ```
     pip install -r requirements.txt
     ```
+
+## Usage
+
+To run the python file in terminal, use the following command:
+
+`python heart_rate.py`
